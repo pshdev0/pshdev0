@@ -1,4 +1,11 @@
-## Hi there 👋
+### My GitHub Stats
+
+![Paul's radar chart](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulhaynes&theme=github)
+
+![Paul's radar](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulhaynes&theme=github)
+
+![Paul's spider chart](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulhaynes&theme=github&utcOffset=1)
+
 
 <!--
 **pshdev0/pshdev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
